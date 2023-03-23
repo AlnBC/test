@@ -78,7 +78,7 @@ int main(){
     return 0;
 }
 
-
+// etst git
 
 void convUpper(char* litera) {
     if(*litera >= 97 && *litera <= 122) {
